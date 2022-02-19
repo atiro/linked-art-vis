@@ -1,4 +1,4 @@
-id,owner,website
+id,owner
 0,"Duke of Portland"
 1,"Earl Howe"
 2,"G. G. Vernon Harcourt, Esq"
@@ -9,7 +9,7 @@ id,owner,website
 7,"Earl of Stamford and Warrington"
 8,"H. R. Willett, Esq"
 9,"Earl Spencer"
-10,"Hon E. Phipps",
+10,"Hon E. Phipps"
 11,"J.H. Anderson, Esq"
 12,"Lord Feversham"
 13,"Royal Society"
@@ -57,11 +57,11 @@ id,owner,website
 55,"Sir H. Wilmot"
 56,"Lord de Tabley"
 57,"Sir J. P. Baileau, Bart"
-58,"National Galleries Scotland",https://www.nationalgalleries.org/
+58,"National Galleries Scotland"
 59,"Nathanial C. Sears"
 60,"Dr. Alfred Bader"
 61,"Milwaukee Art Center"
-62,"Agnes Etherington Art Centre",https://agnes.queensu.ca/
+62,"Agnes Etherington Art Centre"
 63,"Waddesdon"
 64,"E. G. Martin, Esq"
 65,"R. Twining, Esq"
