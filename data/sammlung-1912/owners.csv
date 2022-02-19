@@ -1,11 +1,11 @@
-id,owner,website
+id,owner
 0,"Unknown"
 1,"Bernhard Koehler"
 2,"Hermitage Museum"
 3,"Barnes Foundation"
 4,"Adele Wolde"
 5,"Alfred Gold"
-6,"Kurt Mettler",
+6,"Kurt Mettler"
 7,"Galerie Matthiesen"
 8,"Knoedler Galleries"
 9,"Neue Nationalgaleri"
@@ -22,7 +22,7 @@ id,owner,website
 20,"Karl-Ernst Osthaus"
 21,"Alfred Flechtheim"
 22,"Edwin Suermondt"
-23,"Martha Suermondt Vömel",
+23,"Martha Suermondt Vömel"
 24,"Alex Vömel"
 25,"Alex Reid & Lefevre, Ltd"
 26,"Kunstmuseum Basel"
@@ -35,8 +35,8 @@ id,owner,website
 33,"Belvedere"
 34,"Oskar Reichel"
 35,"Adolph Rothermundt"
-36,"Kunsthaus Zürich",
-37,"H. P. Bremmer",
+36,"Kunsthaus Zürich"
+37,"H. P. Bremmer"
 38,"Wallraf-Richartz Museum"
 39,"Eberhard Grisebach"
 40,"National Gallery of Art"
@@ -67,10 +67,10 @@ id,owner,website
 65,"Robert H. Tannahill"
 66,"Detroit Institute of Arts"
 67,"Kröller-Müller Museum"
-68,"Baron Mór Lipót Herzog",
-69,"Bruno Cassirer",
-70,"Baron Ferenc Hatvany",
-71,"National Socialists",
+68,"Baron Mór Lipót Herzog"
+69,"Bruno Cassirer"
+70,"Baron Ferenc Hatvany"
+71,"National Socialists"
 72,"Hatvany heirs"
 73,"Private Owner"
 74,"Alexandre Berthier"
@@ -78,7 +78,7 @@ id,owner,website
 76,"Enerst Thiel"
 77,"Gemäldegalerie, Dresden"
 78,"Harald Holst Halvorsen"
-79,"Thomas Olsen" 
+79,"Thomas Olsen"
 80,"Oskar Reichel"
 81,"Museum of Fine Arts, Boston"
 82,"Robert Treat Paine"
@@ -99,15 +99,15 @@ id,owner,website
 97,"Vincent Willem van Gogh"
 98,"Norton Simon Foundation"
 99,"Fernand Léger"
-100,"Marianne von Friedländer-Fould",
+100,"Marianne von Friedländer-Fould"
 101,"Musée du Louvre"
 102,"Musée d'Orsay"
 103,"Christian Tetzen-Lund"
-104,"René Gaffé",
+104,"René Gaffé"
 105,"Roland A. Penrose"
 106,"Nelson A. Rockefeller"
 107,"The Phillips Collection"
-108,"Mrs. Charlotte P. Hyde",
+108,"Mrs. Charlotte P. Hyde"
 109,"Hyde Collection"
 110,"Felix Auerbach"
 111,"Ruth Kisch-Arndt"
@@ -125,7 +125,6 @@ id,owner,website
 123,"Mrs. R. A. Workman"
 124,"Mrs. William Andrews (Anna Eugenia La Chapelle) Clark"
 125,"Mrs. Charles Suydam Cutting"
-126,"Fritz Meyer-Fierz",duplicate of 14
 127,"Toledo Museum"
 128,"Newfields"
 129,"Robert von Mendelssohn"

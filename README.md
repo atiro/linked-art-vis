@@ -1,17 +1,24 @@
+# Linked Art Visualisation(s)
+
+(see USAGE.md)
+
 Convert Linked Art data to visualisation of:
 
-   * Provence
-   * Exhibtion
+   * Provenance
+   * Exhibition
+   * Any point in time gathering of artworks
 
-of artworks clustered on a starting Exhibition. 
+to show the post event history of them through provenance events.
 
-E.g. FOr Manchester Art Treaures Exhibition:
+E.g. For Manchester Art Treasures Exhibition:
 
-  * Group artworks around Exhibtion node
+  * Group artworks around Exhibition node
   * Cluster those with same owner at the time 
   * Indicate from each artwork each change of ownership (clustering at the end)
 
-Problems:
+## Notes 
+
+## Problems:
 
   - Intermediate ownerships by same owner, how to show without making a tangled web
   - Change in artwork attribution, where to indicate the change
@@ -19,8 +26,7 @@ Problems:
 
 Ideally a spiderweb with clusters at the edges for current ownership groups
 
-
-Linked Art Fragments
+## Linked Art Fragments
 
   - Would allow matching up (link family trees) different fragements. Ideally on same Identifiers but
     as don't exist for Exhibitions/Artworks would have to go on titles
@@ -35,10 +41,10 @@ Linked Art Fragments
 	 - Contested / Alternatives ?
 
 
-PRoblematic Data
+## Problematic Data
 
   - Non-unique artworks
   - Change in attribution
-  - Desctrubtion
+  - Destruction
   - Indicating gaps in provenance history
 
