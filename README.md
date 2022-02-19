@@ -10,6 +10,8 @@ Convert Linked Art data to visualisation of:
 
 to show the post event history of them through provenance events.
 
+See https://observablehq.com/@atiro/artworks-of-1912 for example output
+
 E.g. For Manchester Art Treasures Exhibition:
 
   * Group artworks around Exhibition node
